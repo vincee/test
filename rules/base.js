@@ -12,11 +12,5 @@ module.exports = {
     'no-use-before-define'               : ['error', { 'functions': false, 'classes': false }],
     'no-underscore-dangle'               : ['error', { "allow": ["_id" ] }], // <<< MongoDB Ids (_id) fix
 
-    // vvv airbnb-base overrides fix vvv
-    'import/extensions'                  : ['error', 'ignorePackages', {
-      'js' : 'never',
-      'vue': 'never'
-    }]
-    // ^^^ airbnb-base overrides fix ^^^
   }
 };

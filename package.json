@@ -1,13 +1,9 @@
 {
-  "name": "eslint-config-vincee",
+  "name": "eslint-config-scbd",
   "version": "1.0.0",
   "description": "SCBD shareable ESLint configuration",
   "license": "MIT",
   "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:vincee/test.git"
-  },
   "scripts": {},
   "dependencies": {
     "eslint-config-airbnb-base": "^14.1.0",
