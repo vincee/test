@@ -1,0 +1,21 @@
+{
+  "name": "eslint-config-vincee",
+  "version": "1.0.0",
+  "description": "SCBD shareable ESLint configuration",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:vincee/test.git"
+  },
+  "scripts": {},
+  "dependencies": {
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-plugin-align-assignments": "^1.1.2"
+  },
+  "peerDependencies": {
+    "babel-eslint": "^10.0.1",
+    "eslint": "^6.0.1",
+    "eslint-plugin-import": "^2.20.0"
+  }
+}
