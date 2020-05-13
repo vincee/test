@@ -10,7 +10,7 @@
   },
   "scripts": {},
   "dependencies": {
-    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-config-airbnb": "^17.1.0",
     "eslint-plugin-align-assignments": "^1.1.2"
   },
   "peerDependencies": {
